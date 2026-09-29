@@ -1,0 +1,46 @@
+body {
+    font-family:Arial,sans-serif;
+    text-align:center;
+    background-color:peachpuff;
+    padding-top:100px;
+}
+
+h1  {
+    font-size:40px;
+    background-color: white;
+}
+
+h2  {
+    font-size:60px;
+}
+
+button  {
+font-size:30px;
+padding:10px, 25px;
+margin:10px;
+cursor:pointer;
+border: white;
+border-radius: 8px;
+
+}
+
+.counter-box{
+    background-color:darkblue;
+    width:350px;
+    padding:35px;
+    margin:auto;
+    border-radius: 15px;
+}
+
+.reset-button {
+    display:block;
+    margin:auto;
+    font-size:15px;
+
+}
+
+.p{
+    color:white;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
