@@ -43,7 +43,7 @@ CounterApp/
 
 ## Purpose
 
-This is one of my first small projects as a BSc in Information Technology undergraduate. I created it to practice the fundamentals of HTML, CSS, and JavaScript and to get familiar with building and sharing projects on GitHub.
+This is one of my first small projects as a BSc in Information Technology undergraduate. I created it to practice the fundamentals of HTML, CSS, and JavaScript.
 
 ---
 
